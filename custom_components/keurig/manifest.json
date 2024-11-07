@@ -11,7 +11,7 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@dcmeglio"
+    "@tomcom05"
   ],
   "iot_class": "cloud_push"
 }
