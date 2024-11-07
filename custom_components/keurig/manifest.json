@@ -4,7 +4,7 @@
   "version": "1.4.2",
   "config_flow": true,
   "requirements": [
-    "git+https://github.com/pypi-data/pypi-mirror-193@code/packages/pykeurig/pykeurig-1.4.2.tar.gz#egg=pykeurig"
+    "pykeurig==1.4.2"
   ],
   "ssdp": [],
   "zeroconf": [],
